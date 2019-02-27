@@ -16,7 +16,6 @@ gem 'sendgrid'
 gem "font-awesome-rails"
 gem 'figaro'
 gem 'onchain'
-gem 'chain-bitcoin-ruby'
 gem 'rqrcode'
 gem 'bootstrap-material-design'
 gem 'jquery-nouislider-rails'
